@@ -1,7 +1,0 @@
-﻿  tarea 2 parte 3.cpp
-C:\Tareas\2021\Programacion II\Tareas\tarea 2 parte 3\tarea 2 parte 3\tarea 2 parte 3.cpp(41,15): warning C4101: 'posy': unreferenced local variable
-C:\Tareas\2021\Programacion II\Tareas\tarea 2 parte 3\tarea 2 parte 3\tarea 2 parte 3.cpp(37,14): warning C4101: 'aumento': unreferenced local variable
-C:\Tareas\2021\Programacion II\Tareas\tarea 2 parte 3\tarea 2 parte 3\tarea 2 parte 3.cpp(38,11): warning C4101: 'mat': unreferenced local variable
-C:\Tareas\2021\Programacion II\Tareas\tarea 2 parte 3\tarea 2 parte 3\tarea 2 parte 3.cpp(37,23): warning C4101: 'suma': unreferenced local variable
-C:\Tareas\2021\Programacion II\Tareas\tarea 2 parte 3\tarea 2 parte 3\tarea 2 parte 3.cpp(41,9): warning C4101: 'posx': unreferenced local variable
-  tarea 2 parte 3.vcxproj -> C:\Tareas\2021\Programacion II\Tareas\tarea 2 parte 3\Debug\tarea 2 parte 3.exe

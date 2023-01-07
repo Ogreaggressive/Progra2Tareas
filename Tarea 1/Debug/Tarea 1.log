@@ -1,6 +1,0 @@
-﻿  Tarea 1.cpp
-C:\Tareas\2021\Programacion II\Tareas\Tarea 1\Tarea 1\Tarea 1.cpp(156,9): warning C4101: 'num1': unreferenced local variable
-C:\Tareas\2021\Programacion II\Tareas\Tarea 1\Tarea 1\Tarea 1.cpp(156,15): warning C4101: 'num2': unreferenced local variable
-C:\Tareas\2021\Programacion II\Tareas\Tarea 1\Tarea 1\Tarea 1.cpp(156,21): warning C4101: 'num3': unreferenced local variable
-C:\Tareas\2021\Programacion II\Tareas\Tarea 1\Tarea 1\Tarea 1.cpp(157,9): warning C4101: 'matriz': unreferenced local variable
-  Tarea 1.vcxproj -> C:\Tareas\2021\Programacion II\Tareas\Tarea 1\Debug\Tarea 1.exe

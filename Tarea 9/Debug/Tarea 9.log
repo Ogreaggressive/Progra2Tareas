@@ -1,6 +1,0 @@
-﻿  ListaGenerica.cpp
-  Tarea 9.cpp
-C:\Tareas\2021\Programacion II\Tareas\Tarea 9\Tarea 9\VueloCarga.h(3,1): warning C4005: 'TAM_MAX_PAQ': macro redefinition
-C:\Tareas\2021\Programacion II\Tareas\Tarea 9\Tarea 9\SingletonPaquetes.h(6): message : see previous definition of 'TAM_MAX_PAQ'
-  Generating Code...
-  Tarea 9.vcxproj -> C:\Tareas\2021\Programacion II\Tareas\Tarea 9\Debug\Tarea 9.exe
