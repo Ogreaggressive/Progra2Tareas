@@ -1,0 +1,15 @@
+﻿  Asignatura.cpp
+C:\Tareas\2021\Programacion II\Tareas\SistemaInformaticoUniversidad\SistemaInformaticoUniversidad\Sesion.h(10,23): warning C4200: nonstandard extension used: zero-sized array in struct/union
+C:\Tareas\2021\Programacion II\Tareas\SistemaInformaticoUniversidad\SistemaInformaticoUniversidad\Sesion.h(10,23): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+  ModAsignatura.cpp
+C:\Tareas\2021\Programacion II\Tareas\SistemaInformaticoUniversidad\SistemaInformaticoUniversidad\Sesion.h(10,23): warning C4200: nonstandard extension used: zero-sized array in struct/union
+C:\Tareas\2021\Programacion II\Tareas\SistemaInformaticoUniversidad\SistemaInformaticoUniversidad\Sesion.h(10,23): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+  SistemaInformaticoUniversidad.cpp
+C:\Tareas\2021\Programacion II\Tareas\SistemaInformaticoUniversidad\SistemaInformaticoUniversidad\Sesion.h(10,23): warning C4200: nonstandard extension used: zero-sized array in struct/union
+C:\Tareas\2021\Programacion II\Tareas\SistemaInformaticoUniversidad\SistemaInformaticoUniversidad\Sesion.h(10,23): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+  Universidad.cpp
+C:\Tareas\2021\Programacion II\Tareas\SistemaInformaticoUniversidad\SistemaInformaticoUniversidad\Sesion.h(10,23): warning C4200: nonstandard extension used: zero-sized array in struct/union
+C:\Tareas\2021\Programacion II\Tareas\SistemaInformaticoUniversidad\SistemaInformaticoUniversidad\Sesion.h(10,23): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+  Generating Code...
+C:\Tareas\2021\Programacion II\Tareas\SistemaInformaticoUniversidad\SistemaInformaticoUniversidad\ModAsignatura.cpp(46): warning C4715: 'ModAsignatura::buscar': not all control paths return a value
+  SistemaInformaticoUniversidad.vcxproj -> C:\Tareas\2021\Programacion II\Tareas\SistemaInformaticoUniversidad\Debug\SistemaInformaticoUniversidad.exe

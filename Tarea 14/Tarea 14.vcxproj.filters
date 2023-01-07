@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Tarea 14.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Obra.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Pintura.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Escultura.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ListaObras.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ListaGenerica.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Nodo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Exposicion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ArrayGenerico.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ExposicionPropia.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ListaExposiciones.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ExposicionInvitados.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Persona.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Obra.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Pintura.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Escultura.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ListaObras.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ListaGenerica.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Nodo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Exposicion.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ArrayGenerico.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ExposicionPropia.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ListaExposiciones.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ExposicionInvitados.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Persona.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

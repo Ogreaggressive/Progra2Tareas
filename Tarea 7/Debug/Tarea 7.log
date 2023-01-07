@@ -1,0 +1,14 @@
+﻿  ClubTenis.cpp
+  Competencia.cpp
+  Double.cpp
+  Equipo.cpp
+  ModCompetencias.cpp
+  ModParticipantes.cpp
+  Participante.cpp
+  Simple.cpp
+  Tarea 7.cpp
+  Tenista.cpp
+  Generating Code...
+C:\Tareas\2021\Programacion II\Tareas\Tarea 7\Tarea 7\ModParticipantes.cpp(65): warning C4715: 'ModParticipantes::buscar': not all control paths return a value
+C:\Tareas\2021\Programacion II\Tareas\Tarea 7\Tarea 7\ModCompetencias.cpp(66): warning C4715: 'ModCompetencias::buscar': not all control paths return a value
+  Tarea 7.vcxproj -> C:\Tareas\2021\Programacion II\Tareas\Tarea 7\Debug\Tarea 7.exe

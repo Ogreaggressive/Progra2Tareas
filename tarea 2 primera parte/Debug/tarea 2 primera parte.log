@@ -1,0 +1,5 @@
+﻿  tarea 2 primera parte.cpp
+C:\Tareas\2021\Programacion II\Tareas\tarea 2 primera parte\tarea 2 primera parte\tarea 2 primera parte.cpp(105,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Tareas\2021\Programacion II\Tareas\tarea 2 primera parte\tarea 2 primera parte\tarea 2 primera parte.cpp(246,12): warning C4101: 'prom': unreferenced local variable
+C:\Tareas\2021\Programacion II\Tareas\tarea 2 primera parte\tarea 2 primera parte\tarea 2 primera parte.cpp(230): warning C4715: 'numeroPalindromo': not all control paths return a value
+  tarea 2 primera parte.vcxproj -> C:\Tareas\2021\Programacion II\Tareas\tarea 2 primera parte\Debug\tarea 2 primera parte.exe
